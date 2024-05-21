@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Home')
+@section('title', 'Movies')
 
 @section('content')
 
@@ -8,7 +8,6 @@
 <h1>Movies</h1>
 
 <div class="container">
-
     <div class="row">
     @foreach ($movies as $movie)
         <div class="col-12 col-md-4 col-lg-3 mb-3">
@@ -23,7 +22,6 @@
         </div>
         @endforeach
     </div>
-   
 </div>
 
 </main>

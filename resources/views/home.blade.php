@@ -4,7 +4,7 @@
 
 @section('content')
 <main class="container py-4">
-    <h1>Movies</h1>
+    <h1>Welcome</h1>
 </main>
 
 @endsection
