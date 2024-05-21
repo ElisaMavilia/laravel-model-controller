@@ -3,8 +3,8 @@
 @section('title', 'Home')
 
 @section('content')
-<main>
-    <h1>Home page</h1>
+<main class="container py-4">
+    <h1>Movies</h1>
 </main>
 
 @endsection
