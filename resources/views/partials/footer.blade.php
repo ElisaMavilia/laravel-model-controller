@@ -1,7 +1,6 @@
 <footer>
-    <div class="container">
-        <small class="text-center">Made by me</small>
+    <div class="ps-4 py-5">
+        <small class="text-center">Made by Elisa</small>
     </div>
-   
 </footer>
 
